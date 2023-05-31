@@ -1,0 +1,22 @@
+h3{
+    color: red;
+}
+ul {
+    list-style: none;
+    display: flex;
+    column-gap: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.red{
+    background-color: red;
+    color: black;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
